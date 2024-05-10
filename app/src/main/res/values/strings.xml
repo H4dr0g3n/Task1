@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="greeting">Еширин Илья РИБО-02-22, Вариант 2</string>
+    <string name="firstHint">Первое слагаемое</string>
+    <string name="secondHint">Второе слагаемое</string>
+    <string name="count">Считать</string>
+    <string name="Task">Деление первого числа на второе</string>
+</resources>
